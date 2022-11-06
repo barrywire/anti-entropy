@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple implementation of the Anti Entropy protocol for distributed systems. The Anti Entropy protocol is a method of synchronizing data between two nodes in a distributed system. 
+This project is a simple implementation of the Anti Entropy protocol for distributed systems. The Anti Entropy protocol is a method of synchronizing data between two nodes in a distributed system.
 
 ## Stack
 
