@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+if handle = ARGV[0]
+    trap(:INT) { abort }
+    require_relative "../channel"
+    Channel.start(handle)
+else
+    abort "Usage: channel <handle>"
+end
